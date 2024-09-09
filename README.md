@@ -1,6 +1,6 @@
 - 👋 Hi, I’m hanan buskila
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning computer science
+- 🌱 I have BSc atcomputer science, and I work now for Check Point.
 - 📫 How to reach me hananbusw@gmail.com
 
 <!---
